@@ -1,0 +1,27 @@
+Les clicks sont réglés
+Les preset peuvent être sauvegardés
+Temps d'attente randomiser de 20s à 100s
+Plus besoin de git pull ! En lançant le logiciel, la mise à jour s'effectue tout seule s'il y en a une !
+Je corrige le patch 3, trop de bugs[6:3:2021] => Mise en place du script pour expliquer les patchs automatiquement
+[6:3:2021] => Juste un test d'export
+[6:3:2021] => Crédits colorés et annulation des preset car trop de bugs
+[6:3:2021] => Ajout logo console, nouvelle méthode pour vérifier la présence des fichiers sources et annexes
+[6:3:2021] => Beaucoup de changements avec ajout de nouvelles fonctionnalités
+[6:3:2021] => Ajout de positions au fûr et à mesure
+[7:3:2021] => Preset activés et gestion de l'activation du menu help
+[7:3:2021] => Ajout de l'affichage des patchs
+[7:3:2021] => Correction bug et suppression du logo
+[7:3:2021] => Correction du dernier bug des presets
+[7:3:2021] => Mise en place du délai entre les clicks pour rendre ça un peu plus hamin
+[7:3:2021] => Mise en place du délai entre les clicks pour rendre ça un peu plus humain
+[8:3:2021] => Modification de l'installeur
+[8:3:2021] => Indépendance ajoutée
+[8:3:2021] => Annulation de indépendance
+[16:3:2021] => Avancement du projet une nouvelle fois xD
+[16:3:2021] => Avancement sur l'autocorrection SANS API GRATUITES
+[22:3:2021] => Reset mode
+[22:3:2021] => Reset mode 2
+[22:3:2021] => Reset mode 3
+[22:3:2021] => Reset mode 4
+[22:3:2021] => Possibilité de supprimer l'app
+[22:3:2021] => Ajout du fichier pour supprimer l'application
